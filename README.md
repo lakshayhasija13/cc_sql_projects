@@ -1,6 +1,6 @@
 # cc_sql_projects
 
-## Projects Overview
+## Projects Overview :
 
 | Project Name (Directory) | Display Name | Difficulty Rating |
 |---|---|---|
